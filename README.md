@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SourabhRavi
 - 👀 I’m interested in making useful and fun websites.
-- 🌱 I’m currently learning Web Development (MEAN Stack)
+- 🌱 I’m currently working on React JS & Redux
 - 📫 You can reach me at skravi0657@gmail.com
 
 <!---
